@@ -1,6 +1,6 @@
 # tf2-advanced-examples
 
-This repo contains some notebook-style implementations of influential or interesting papers from the field of deep learning. The goal is to highlight the key contributions of these papers, demostrating how they work, but using toy datasets and small models to keep things simple. These implementations are not expected to reproduce the results in the papers or provide a reference implementation, as some details might have been omited to keep focus on the main features.
+This repo contains some notebook-style tensorflow implementations of influential or interesting papers from the field of deep learning. The goal is to highlight the key contributions of these papers, demostrating how they work, but using toy datasets and small models to keep things simple. These implementations are not expected to reproduce the results in the papers or provide a reference implementation, as some details might have been omited to keep focus on the main features.
 
 | Reference | High level description | Notebook
 | ------------- |-------------|-------------| 
